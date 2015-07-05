@@ -1,0 +1,306 @@
+{
+  "basics": {
+    "name": "Robert E. Fauver",
+    "label": "Programmer",
+    "picture": "https://avatars1.githubusercontent.com/u/341955?v=3&s=460",
+    "email": "robertfauver@gmail.com",
+    "phone": "(856) 220-1833",
+    "website": "http://robertfauver.com",
+    "summary": "I graduated in 2000 with a degree in Graphic Design. While in school I fell in love with creating and computers which led me to design and create websites. It's important for me to be original, challenge myself and look forward in everything that I do. I want to work with a team that shares the same passion for web development that I do and if they don't they will after they meet me.",
+    "location": {
+      "address": "350 E. 2nd Street",
+      "postalCode": "NJ 08057",
+      "city": "Moorestown",
+      "countryCode": "US",
+      "region": "New Jersey"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "fauverism",
+        "url": "http://github.com/fauverism"
+      },
+      {
+        "network": "Twitter",
+        "username": "fauverism",
+        "url": "http://robertfauver.com/fauverism"
+      },
+      {
+        "network": "Flickr",
+        "username": "fauverism",
+        "url": "https://www.flickr.com/photos/66806806@N00"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Robert E. Fauver",
+        "url": "https://www.linkedin.com/pub/robert-fauver/7b/8b1/801"
+      },
+      {
+        "network": "Stack Overflow",
+        "username": "fauverism",
+        "url": "http://stackoverflow.com/users/721040/fauverism"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "fauverism",
+        "url": "https://soundcloud.com/fauverism"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Comcast",
+      "position": "Software Engineer",
+      "startDate": "2015-01-01",
+      "endDate": "2015-07-01",
+      "summary": "I was brought as a contractor to create a part auditing application to be used by Comcast Sites and Depots to keep track and audit their inventory",
+      "highlights": [
+        "Audit application with AngularJS and AngularUI on the frontend with NodeJS and Express on the backend",
+        "Development with daily scrums, code reviews, github for VCS, Jira for Sprint and bug tracking"
+      ],
+      "technologies": [
+        "AngularJS",
+        "AngularUI",
+        "Grunt",
+        "LESS",
+        "Responsive Layout",
+        "Agile"
+      ]
+    },
+    {
+      "company": "Acurian",
+      "position": "Mobile Consultant",
+      "startDate": "2014-06-01",
+      "endDate": "2014-12-01",
+      "summary": "Responsible for creating the frontend for an SPA that screens potential clients for clinical trials",
+      "highlights": [
+        "Creation of rapid prototypes that are responsive",
+        "Developed the application with a mobile first approach"
+      ],
+      "technologies": [
+        "AngularJS",
+        "Twitter Bootstrap",
+        "Responsive Layout",
+        "SASS",
+        "HTML5",
+        "Grunt"
+      ]
+    },
+    {
+      "company": "National Board of Medical Examiners",
+      "position": "UX Engineer",
+      "startDate": "2013-06-01",
+      "endDate": "2014-06-01",
+      "summary": "Consultant for an application that administers medical examination",
+      "highlights": [
+        "Implementation of the AngularJS MVC framework for application conversion into the Chromium frame",
+        "AngularUI with Bootstrap for the design framework",
+        "Use modern web app technologies such as HTML5, CSS3 and JavaScript",
+        "Accessibility features for users with low vision",
+        "Created with an agile team",
+        "A/B & User testing",
+        "Support for QA team via JIRA",
+        "Advocate of TDD with Protractor, Karma & Jasmine"
+      ],
+      "technologies": [
+        "AngularJS",
+        "AngularUI",
+        "Chromium",
+        "XML",
+        "XSLT"
+      ]
+    },
+    {
+      "company": "Bristol-Myers Squibb",
+      "position": "Senior Web Developer",
+      "startDate": "2010-01-01",
+      "endDate": "2013-04-01",
+      "summary": "Day to day operations consisted of anything from bug fixes, Sharepoint themes, iOS apps using web based technologies, mobile, etc.",
+      "highlights": [
+        "Daily use of CSS3, HTML5 & JavaScript to create websites and web apps",
+        "Creation of mobile websites using jQuerymobile and Sencha frameworks",
+        "Responsive development for internal presentations",
+        "Customization of Sharepoint 2007 & 2010 websites",
+        "Taught classes on web development on HTML5 and JavaScript",
+        "Development of frontend architecture and standards to be used by entire team",
+        "Worked on HTML5 video delivery strategy for multiple devices",
+        "Use of ajax to process xml and json data"
+      ],
+      "technologies": [
+        "Sharepoint 2007 and 2010",
+        "JavaScript",
+        "jQuery",
+        "CSS3",
+        "HTML5"
+      ]
+    },
+    {
+      "company": "Merrill Lynch",
+      "position": "Web Designer II",
+      "startDate": "2010-07-01",
+      "endDate": "2010-11-01",
+      "summary": "Contract work for development of the Merrill Lynch Institutional Retirement website",
+      "highlights": [
+        "Execution of Marketing initiatives for multiple businesses",
+        "Information Architecture for CMS driven websites",
+        "Development of CMS driven website",
+        "Creation of CSS, HTML & JavaScript that meets all major browser requirements",
+        "Creation of Wealth Management and Financial Advisor website"
+      ],
+      "technologies": [
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "True Action (GSI/eBay)",
+      "position": "Web Developer",
+      "startDate": "2010-01-01",
+      "endDate": "2010-07-01",
+      "highlights": [
+        "Development of timberland.com e-commerce website",
+        "Implementation of websites in a Java based MVC environment that used Apache Tiles, JSP, XML & XSLT",
+        "Use of IADs/Wireframes and Redlines/Style Guides to create CSS & HTML template pages",
+        "Creation of JavaScript based upon jQuery and DomFather(custom GSI JavaScript framework)",
+        "Bug fixes using HP Quality Center for Toys R Us & Ralph Lauren websites"
+      ],
+      "technologies": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "JSP",
+        "XML",
+        "XSLT"
+      ]
+    },
+    {
+      "company": "Princeton University",
+      "position": "Web Designer",
+      "startDate": "2009-11-01",
+      "endDate": "2009-05-01",
+      "highlights": [
+        "Designed and Developed CMS website themes for free use by departments across the University",
+        "Brainstorming sessions with Web Development Services & OIT",
+        "Creation of wire frames, mock ups, and inspiration examples from brainstorming sessions",
+        "Extensively tested and validated websites on all major browsers and screen readers"
+      ],
+      "technologies": [
+        "CSS"
+      ]
+    },
+    {
+      "company": "Princeton Online",
+      "position": "Web Designer",
+      "startDate": "2007-01-01",
+      "endDate": "2009-07-01",
+      "highlights": [
+        "Design and Development for a wide range of clients",
+        "Creation of CSS & XHTML with a focus on web standards",
+        "Extensive browser testing and troubleshooting",
+        "Developed with Coldfusion for CMS that fit the client's needs"
+      ],
+      "technologies": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Coldfusion"
+      ]
+    },
+    {
+      "company": "Arett Sales",
+      "position": "Graphic & Web Designer",
+      "startDate": "2005-01-01",
+      "endDate": "2007-01-01"
+    },
+    {
+      "company": "Pep Boys",
+      "position": "Graphic Designer",
+      "startDate": "2004-01-01",
+      "endDate": "2004-12-01"
+    },
+    {
+      "company": "Modern Technologies Group",
+      "position": "Graphic Designer",
+      "startDate": "2000-08-01",
+      "endDate": "2002-10-01"
+    },
+    {
+      "company": "Koen Book Distributors",
+      "position": "Graphic Designer",
+      "startDate": "1998-12-01",
+      "endDate": "2000-07-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Art Institute of Philadelphia",
+      "area": "Graphic Design",
+      "studyType": "Associates",
+      "endDate": "2000-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "HTML5 elements",
+        "Jade templating",
+        "Emmett"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "SASS",
+        "LESS",
+        "Bootstrap",
+        "Foundation",
+        "Animations",
+        "Browser Compatibility"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "CoreJS",
+        "AngularJS",
+        "jQuery",
+        "JSON"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "Constantly Learning",
+      "keywords": [
+        "Typography",
+        "Grid Layout",
+        "Color Theory",
+        "Branding"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Family",
+      "keywords": [
+        "Liz",
+        "Colin",
+        "Colette",
+        "Cody"
+      ]
+    },
+    {
+      "name": "Records, Music, Collecting",
+      "keywords": [
+        "Classic Rock",
+        "Weird Music",
+        "Books"
+      ]
+    }
+
+  ]
+}
